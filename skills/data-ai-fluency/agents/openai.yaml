@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data and AI Fluency"
+  short_description: "Question-first data and ai fluency coach"
+  default_prompt: "Use $data-ai-fluency to clarify the decision, surface assumptions, and produce a practical data and ai fluency plan."

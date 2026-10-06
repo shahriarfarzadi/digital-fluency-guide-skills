@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digital Thinking"
+  short_description: "Question-first digital thinking coach"
+  default_prompt: "Use $digital-thinking to clarify the decision, surface assumptions, and produce a practical digital thinking plan."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Networked Skills and Leadership"
+  short_description: "Question-first networked skills and leadership coach"
+  default_prompt: "Use $networked-skills to clarify the decision, surface assumptions, and produce a practical networked skills and leadership plan."

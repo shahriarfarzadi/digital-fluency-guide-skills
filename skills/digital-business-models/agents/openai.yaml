@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digital Business Models"
+  short_description: "Question-first digital business models coach"
+  default_prompt: "Use $digital-business-models to clarify the decision, surface assumptions, and produce a practical digital business models plan."

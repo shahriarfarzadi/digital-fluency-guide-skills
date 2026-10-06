@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digital Tools and Factories"
+  short_description: "Question-first digital tools and factories coach"
+  default_prompt: "Use $digital-tools to clarify the decision, surface assumptions, and produce a practical digital tools and factories plan."
